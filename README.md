@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Welcome to my github. Would be nice to talk with you, if you're interested in my projects or in something else
+#### Welcome to my github. Would be nice to talk to you, if you're interested in my projects or anything else
 
 - 💬 contact me:
 
