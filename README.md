@@ -4,7 +4,7 @@
 
 - 💬 contact me:
 
-telegram: https://t.me/icewallowcomeee 
+telegram: https://t.me/wdsjksja 
 
 discord: wdsjk#2825
 
