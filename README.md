@@ -6,7 +6,7 @@
 
 telegram: https://t.me/wdsjksja 
 
-discord: wdsjk#2825
+discord: wdsjk
 
 - 📖 currently learning Solidity
 
