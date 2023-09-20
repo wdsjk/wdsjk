@@ -4,10 +4,12 @@
 
 - 💬 contact me:
 
-telegram: https://t.me/wdsjksja 
+>telegram: https://t.me/wdsjksja 
 
-discord: wdsjk
+>discord: wdsjk
 
-- 📖 currently learning Solidity
+- 📖 currently learning C++
 
-- 🤔 interested in blockchain technology and cryptocurrencies
+- 🤔 interested in low-level computer things xd, algorithms and data structures
+
+- 🌠 omv to the university -> job offer
