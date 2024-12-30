@@ -7,4 +7,4 @@
 >
 >discord: wdsjk
 - 📖 currently learning Java
-- 🌠 omv to the ~~university ->~~ job offer
+- 🌠 omv to an internship -> job offer
