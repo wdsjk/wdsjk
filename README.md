@@ -27,16 +27,19 @@ Passionate software engineer exploring the world of computer science and technol
 ## **Languages and Tools**
 
 <p align="center">
-  <img height="40" alt="go" src="./assets/go.svg">
-  <img height="40" alt="python" src="./assets/python.svg">
-  <img height="40" alt="java" src="./assets/java.svg">
-  <img height="40" alt="spring" src="./assets/spring.svg">
-  <img height="40" alt="postgres" src="./assets/postgres.svg">
-  <img height="40" alt="redis" src="./assets/redis.svg">
-  <img height="40" alt="mongodb" src="./assets/mongodb.svg">
-  <img height="40" alt="docker" src="./assets/docker.svg">
-  <img height="40" alt="kubernetes" src="./assets/kubernetes.svg">
-  <img height="40" alt="git" src="./assets/git.svg">
+  <a href="https://go.dev" target="_blank"><img height="40" alt="go" src="./assets/go.svg"></a>&nbsp;
+  <a href="https://www.python.org" target="_blank"><img height="40" alt="python" src="./assets/python.svg"></a>&nbsp;
+  <a href="https://www.java.com" target="_blank"><img height="40" alt="java" src="./assets/java.svg"></a>&nbsp;
+  <a href="https://spring.io" target="_blank"><img height="40" alt="spring" src="./assets/spring.svg"></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img height="40" alt="postgres" src="./assets/postgres.svg"></a>
+</p>
+
+<p align="center">
+  <a href="https://redis.io" target="_blank"><img height="40" alt="redis" src="./assets/redis.svg"></a>&nbsp;
+  <a href="https://www.mongodb.com" target="_blank"><img height="40" alt="mongodb" src="./assets/mongodb.svg"></a>&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img height="40" alt="docker" src="./assets/docker.svg"></a>&nbsp;
+  <a href="https://kubernetes.io" target="_blank"><img height="40" alt="kubernetes" src="./assets/kubernetes.svg"></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img height="40" alt="git" src="./assets/git.svg"></a>
 </p>
 
 ## **GitHub Stats**
