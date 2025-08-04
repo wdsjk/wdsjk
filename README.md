@@ -26,9 +26,9 @@ Passionate software engineer exploring the world of computer science and technol
 
 ## **Languages and Tools**
 
-<p align="center">
+<div align="center">
   <img height="30" alt="go" src="./assets/go.svg"> <img height="30" alt="python" src="./assets/python.svg"> <img height="30" alt="java" src="./assets/java.svg"> <img height="30" alt="spring" src="./assets/spring.svg"> <img height="30" alt="postgres" src="./assets/postgres.svg"> <img height="30" alt="redis" src="./assets/redis.svg"> <img height="30" alt="mongodb" src="./assets/mongodb.svg"> <img height="30" alt="docker" src="./assets/docker.svg"> <img height="30" alt="kubernetes" src="./assets/kubernetes.svg"> <img height="30" alt="git" src="./assets/git.svg">
-</p>
+</div>
 
 ## **GitHub Stats**
 
