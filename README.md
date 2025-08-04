@@ -26,8 +26,6 @@ Passionate software engineer exploring the world of computer science and technol
 
 ## **Languages and Tools**
 
-## **Languages and Tools**
-
 <p align="center">
   <img height="40" alt="go" src="./assets/go.svg">
   <img height="40" alt="python" src="./assets/python.svg">
