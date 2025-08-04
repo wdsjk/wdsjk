@@ -26,7 +26,7 @@ Passionate software engineer exploring the world of computer science and technol
 
 ## **Languages and Tools**
 
-<div style="display: -webkit-flex; display: flex; -webkit-justify-content: center; justify-content: center; flex-wrap: wrap; gap: 8px;">
+<p align="center">
   <img height="40" alt="go" src="./assets/go.svg">
   <img height="40" alt="python" src="./assets/python.svg">
   <img height="40" alt="java" src="./assets/java.svg">
@@ -37,7 +37,7 @@ Passionate software engineer exploring the world of computer science and technol
   <img height="40" alt="docker" src="./assets/docker.svg">
   <img height="40" alt="kubernetes" src="./assets/kubernetes.svg">
   <img height="40" alt="git" src="./assets/git.svg">
-</div>
+<p/>
 
 ## **GitHub Stats**
 
