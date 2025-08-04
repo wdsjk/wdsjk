@@ -26,9 +26,18 @@ Passionate software engineer exploring the world of computer science and technol
 
 ## **Languages and Tools**
 
-<div align="center">
-  <img height="20" alt="go" src="./assets/go.svg"> <img height="20" alt="python" src="./assets/python.svg"> <img height="20" alt="java" src="./assets/java.svg"> <img height="20" alt="spring" src="./assets/spring.svg"> <img height="20" alt="postgres" src="./assets/postgres.svg"> <img height="20" alt="redis" src="./assets/redis.svg"> <img height="20" alt="mongodb" src="./assets/mongodb.svg"> <img height="20" alt="docker" src="./assets/docker.svg"> <img height="20" alt="kubernetes" src="./assets/kubernetes.svg"> <img height="20" alt="git" src="./assets/git.svg">
-</div>
+<p align="center">
+  <img height="40" alt="go" src="./assets/go.svg">
+  <img height="40" alt="python" src="./assets/python.svg">
+  <img height="40" alt="java" src="./assets/java.svg">
+  <img height="40" alt="spring" src="./assets/spring.svg">
+  <img height="40" alt="postgres" src="./assets/postgres.svg">
+  <img height="40" alt="redis" src="./assets/redis.svg">
+  <img height="40" alt="mongodb" src="./assets/mongodb.svg">
+  <img height="40" alt="docker" src="./assets/docker.svg">
+  <img height="40" alt="kubernetes" src="./assets/kubernetes.svg">
+  <img height="40" alt="git" src="./assets/git.svg">
+</p>
 
 ## **GitHub Stats**
 
