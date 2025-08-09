@@ -2,9 +2,9 @@
 <p align="center"><b>Backend Developer | Golang Enthusiast | CS Student</b></p>
 <br/>
 
-Passionate software engineer exploring the world of computer science and technologies.
-
 ## **About me**
+
+Passionate software engineer exploring the world of computer science and technologies.
 
 - 💼 Backend developer interested in a Golang internship
 
