@@ -42,8 +42,8 @@ Passionate software engineer exploring the world of computer science and technol
 ## **GitHub Stats**
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsjk&show_icons=true&theme=radical&langs_count=3&hide=html" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wdsjk&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsjk&show_icons=true&theme=radical&langs_count=3&hide=html&cache_seconds=43200" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wdsjk&show_icons=true&theme=radical&cache_seconds=43200" height="180"/>
 </div>
 
 <br/>
